@@ -1,0 +1,19 @@
+{
+  "name": "BitcoinPriceBot",
+  "version": "0.0.0",
+  "description": "Facebook Chat Bot that updates you with the price of Bitcoin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nishilshah17/BitcoinPriceBot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nishilshah17/BitcoinPriceBot/issues"
+  },
+  "homepage": "https://github.com/nishilshah17/BitcoinPriceBot"
+}
